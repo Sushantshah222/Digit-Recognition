@@ -1,2 +1,2 @@
-# Digit_-recognition
+# Digit Recognition
 digit recognition using Mnist data set 
